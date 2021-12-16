@@ -32,19 +32,21 @@ body {
     box-shadow: 4px 0px 4px -3px;
 }
 
-img {
+.perfil {
     border-radius: 50%;
     margin-left: 93px;
     margin-top: 41px;
-    border: 3px solid #CB92B1;
+    border: 3px solid #f2a900;
 }
 
 .txt-b {
+    line-height: 5;
     font-size: 17px;
-    margin-top: 34px;
     font-family: sans-serif;
-    color: #837E9F;
+    color: #a5a1bb;
     margin-left: 26px;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .alinhamento {
@@ -88,7 +90,7 @@ img {
     font-size: 15px;
     margin-top: 20px;
     font-family: sans-serif;
-    color: #837E9F;
+    color: #a5a1bb;
 }
 
 .pares2 {
@@ -112,4 +114,10 @@ img {
     margin-left: 20px;
     border-radius: 0.5rem;
     box-shadow: 4px 0px 4px -3px;
+}
+
+.imgicones {
+    margin-top: 50px;
+    filter: invert(70%);
+    margin-left: 73px;
 }

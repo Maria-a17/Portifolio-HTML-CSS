@@ -32,7 +32,7 @@ body {
     box-shadow: 4px 0px 4px -3px;
 }
 
-.perfil {
+#perfil {
     border-radius: 50%;
     margin-left: 93px;
     margin-top: 41px;
@@ -119,5 +119,60 @@ body {
 .imgicones {
     margin-top: 50px;
     filter: invert(70%);
-    margin-left: 73px;
+    margin-left: 40px;
+}
+
+.txt-global {
+    font-weight: 530;
+    /* text-align: center; */
+    margin-top: 66px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #a5a1bb;
+    text-decoration: none;
+}
+
+.txt-globalln {
+    font-weight: 530;
+    /* text-align: center; */
+    margin-top: 55px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #a5a1bb;
+    text-decoration: none;
+}
+
+.txt-globalwork {
+    font-weight: 530;
+    /* text-align: center; */
+    margin-top: 55px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #a5a1bb;
+    /*text-decoration: none;*/
+}
+
+.alinha_icons {
+    margin-top: -30px;
+    display: inline-flex;
+}
+
+#alinha_icons1 {
+    margin-top: -62px;
+    display: inline-flex;
+}
+
+#alinha_icons2 {
+    margin-top: -50px;
+    display: inline-flex;
+}
+
+#alinha_icons3 {
+    /*margin-top: -62px;*/
+    display: inline-flex;
+}
+
+#alinha_icons4 {
+    margin-top: -62px;
+    display: inline-flex;
 }
